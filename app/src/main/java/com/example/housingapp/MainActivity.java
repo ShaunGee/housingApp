@@ -12,3 +12,15 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 }
+
+
+
+
+
+        /*
+        //opens the intent from main activity
+        Intent i;
+        i = new Intent(this, homeOthers.class);
+        startActivity(i);
+
+         */
